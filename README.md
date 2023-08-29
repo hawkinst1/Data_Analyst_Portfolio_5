@@ -16,7 +16,6 @@ CountTable = SUMMARIZE(DistinctValues, [Type], "Count", COUNTROWS('DistinctValue
 
 In the Model View I then do two "Many to One" relatsionships and now clicking on the type in the tree map changes the rest of the data on the page.
 
-
-
-
-
+==================================================================================
+Two pages should be made based on Offences and Defences comparing each type.
+A physical page should look at how the wieght and height correlate with various stats or maybe types.
